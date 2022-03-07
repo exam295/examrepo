@@ -25,5 +25,65 @@
   </div>
 </nav>
   
+
+
+
+
+
+
+
+<div class="container my-4">
+<hr class="mt-5">
+
+  <hr class="mb-5"/>
+
+    <div class="row text-center">
+
+      <div class="col-md-6 mb-4">
+
+        <h2 class="my-5 h2">A user friendly tutoring platform</h2>
+
+        <img class="rounded-circle z-depth-2" alt="rounded image of a individual learning" src="homepageimagefinale.png"
+          data-holder-rendered="true">
+
+      </div>
+      
+    </div>
+
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </body>
 </html>
